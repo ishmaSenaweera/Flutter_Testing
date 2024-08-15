@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "785316782007",
+    "firebase_url": "https://helpinghands-9cbe8-default-rtdb.firebaseio.com",
+    "project_id": "helpinghands-9cbe8",
+    "storage_bucket": "helpinghands-9cbe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785316782007:android:d80c04d0560f9d33d81232",
+        "android_client_info": {
+          "package_name": "com.upulchamara.charity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785316782007-4i0pa3jk5nrbmbdob4e969n8imsq07uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOSQ6DfTukIDSWmuKEr0wARwRNK9UseI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785316782007-4i0pa3jk5nrbmbdob4e969n8imsq07uq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785316782007-l7615fjh8n415pqo8ckqsc12oi0ts5mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upulchamara.charity_app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785316782007:android:fe53232d7117724fd81232",
+        "android_client_info": {
+          "package_name": "com.upulchamara.charity_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785316782007-76fd50qjdt3pi6drpb0a5d3eko9m8oi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upulchamara.charity_app",
+            "certificate_hash": "4dea2144a6f6eba9c07311ef9d3411866a4b2d97"
+          }
+        },
+        {
+          "client_id": "785316782007-4i0pa3jk5nrbmbdob4e969n8imsq07uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOSQ6DfTukIDSWmuKEr0wARwRNK9UseI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785316782007-4i0pa3jk5nrbmbdob4e969n8imsq07uq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785316782007-l7615fjh8n415pqo8ckqsc12oi0ts5mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upulchamara.charity_app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
