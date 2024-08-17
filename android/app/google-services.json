@@ -59,6 +59,30 @@
           }
         },
         {
+          "client_id": "785316782007-7ndfl3o6pgnicdfe9atqq02uncarh6j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upulchamara.charity_app",
+            "certificate_hash": "83270ca51632fc707ef05ffa9040c3c8adf791f8"
+          }
+        },
+        {
+          "client_id": "785316782007-lstiar0je6r7k38usa0394bseulioqqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upulchamara.charity_app",
+            "certificate_hash": "679b16f911f3f5e9189c1b1a63a8745dff6db564"
+          }
+        },
+        {
+          "client_id": "785316782007-t1v215l0gq33jeavdp3l4geddujf7tqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upulchamara.charity_app",
+            "certificate_hash": "a7794c831cfb6ee0b166bcf6ec972b8f9e575ea3"
+          }
+        },
+        {
           "client_id": "785316782007-4i0pa3jk5nrbmbdob4e969n8imsq07uq.apps.googleusercontent.com",
           "client_type": 3
         }

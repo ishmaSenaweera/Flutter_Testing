@@ -150,7 +150,9 @@ class _LoginPageState extends State<LoginPage>
       }
     } catch (e) {
       setState(() {
-        errorMessage = "Could not sign in with Google! Please try again.";
+        print(e.toString());
+        // errorMessage = "Could not sign in with Google! Please try again.";
+        errorMessage = e.toString();
       });
     }
   }
@@ -325,17 +327,6 @@ class _LoginPageState extends State<LoginPage>
           ),
         ),
       ],
-    );
-  }
-
-  Widget _animation() {
-    return Lottie.asset(
-      'assets/login.json',
-      controller: _controllerAnimation,
-      height: 200,
-      reverse: true,
-      repeat: true,
-      fit: BoxFit.cover,
     );
   }
 
